@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "neopop-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CRED-CLUB/neopop-ios",
+      "state" : {
+        "revision" : "cb232c3fdfcbda955c6ad7b8ee77b4900da6b0d8",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}

